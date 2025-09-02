@@ -1,0 +1,15 @@
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\11_Excecoes\bin\Debug\net6.0\11_Excecoes.exe
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\11_Excecoes\bin\Debug\net6.0\11_Excecoes.deps.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\11_Excecoes\bin\Debug\net6.0\11_Excecoes.runtimeconfig.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\11_Excecoes\bin\Debug\net6.0\11_Excecoes.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\11_Excecoes\bin\Debug\net6.0\11_Excecoes.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\11_Excecoes\obj\Debug\net6.0\11_Excecoes.csproj.AssemblyReference.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\11_Excecoes\obj\Debug\net6.0\11_Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\11_Excecoes\obj\Debug\net6.0\11_Excecoes.AssemblyInfoInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\11_Excecoes\obj\Debug\net6.0\11_Excecoes.AssemblyInfo.cs
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\11_Excecoes\obj\Debug\net6.0\11_Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\11_Excecoes\obj\Debug\net6.0\11_Excecoes.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\11_Excecoes\obj\Debug\net6.0\refint\11_Excecoes.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\11_Excecoes\obj\Debug\net6.0\11_Excecoes.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\11_Excecoes\obj\Debug\net6.0\11_Excecoes.genruntimeconfig.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\11_Excecoes\obj\Debug\net6.0\ref\11_Excecoes.dll
