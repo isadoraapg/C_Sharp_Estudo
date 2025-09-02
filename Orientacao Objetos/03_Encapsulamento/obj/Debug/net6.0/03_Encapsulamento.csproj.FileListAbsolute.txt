@@ -1,0 +1,15 @@
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\03_Encapsulamento\bin\Debug\net6.0\03_Encapsulamento.exe
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\03_Encapsulamento\bin\Debug\net6.0\03_Encapsulamento.deps.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\03_Encapsulamento\bin\Debug\net6.0\03_Encapsulamento.runtimeconfig.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\03_Encapsulamento\bin\Debug\net6.0\03_Encapsulamento.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\03_Encapsulamento\bin\Debug\net6.0\03_Encapsulamento.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\03_Encapsulamento\obj\Debug\net6.0\03_Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\03_Encapsulamento\obj\Debug\net6.0\03_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\03_Encapsulamento\obj\Debug\net6.0\03_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\03_Encapsulamento\obj\Debug\net6.0\03_Encapsulamento.AssemblyInfo.cs
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\03_Encapsulamento\obj\Debug\net6.0\03_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\03_Encapsulamento\obj\Debug\net6.0\03_Encapsulamento.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\03_Encapsulamento\obj\Debug\net6.0\refint\03_Encapsulamento.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\03_Encapsulamento\obj\Debug\net6.0\03_Encapsulamento.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\03_Encapsulamento\obj\Debug\net6.0\03_Encapsulamento.genruntimeconfig.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\03_Encapsulamento\obj\Debug\net6.0\ref\03_Encapsulamento.dll

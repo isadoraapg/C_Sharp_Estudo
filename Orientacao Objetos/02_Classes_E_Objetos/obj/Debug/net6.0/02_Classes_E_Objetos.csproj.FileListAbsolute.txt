@@ -1,0 +1,15 @@
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\02_Classes_E_Objetos\obj\Debug\net6.0\02_Classes_E_Objetos.csproj.AssemblyReference.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\02_Classes_E_Objetos\obj\Debug\net6.0\02_Classes_E_Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\02_Classes_E_Objetos\obj\Debug\net6.0\02_Classes_E_Objetos.AssemblyInfoInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\02_Classes_E_Objetos\obj\Debug\net6.0\02_Classes_E_Objetos.AssemblyInfo.cs
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\02_Classes_E_Objetos\obj\Debug\net6.0\02_Classes_E_Objetos.csproj.CoreCompileInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\02_Classes_E_Objetos\bin\Debug\net6.0\02_Classes_E_Objetos.exe
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\02_Classes_E_Objetos\bin\Debug\net6.0\02_Classes_E_Objetos.deps.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\02_Classes_E_Objetos\bin\Debug\net6.0\02_Classes_E_Objetos.runtimeconfig.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\02_Classes_E_Objetos\bin\Debug\net6.0\02_Classes_E_Objetos.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\02_Classes_E_Objetos\bin\Debug\net6.0\02_Classes_E_Objetos.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\02_Classes_E_Objetos\obj\Debug\net6.0\02_Classes_E_Objetos.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\02_Classes_E_Objetos\obj\Debug\net6.0\refint\02_Classes_E_Objetos.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\02_Classes_E_Objetos\obj\Debug\net6.0\02_Classes_E_Objetos.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\02_Classes_E_Objetos\obj\Debug\net6.0\02_Classes_E_Objetos.genruntimeconfig.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\02_Classes_E_Objetos\obj\Debug\net6.0\ref\02_Classes_E_Objetos.dll

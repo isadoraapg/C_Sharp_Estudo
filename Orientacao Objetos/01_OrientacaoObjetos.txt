@@ -1,0 +1,107 @@
+
+
+Orientação a Objetos
+- representar o mundo real
+- definir caracteristicas, comportamentos e relações
+
+
+Pilares:
+- Abstração: 
+    - identificar quais elementos serão representados
+    - nomes, características, comportamentos e relações
+- Encapsulamento:
+    - esconder detalhes internos de uma classe
+    - expor apenas o que deve ser público
+- Herança:
+    - herdar comportamento e características 
+    - evita a repetição de código
+    - manutenção mais segura
+- Polimorfismo:
+    - capacidade de um objeto assumir diferentes formas
+    de acordo com a necessidade
+
+
+Console.WriteLine("Olá");
+Console = classe
+WriteLine = método
+"Olá" = parâmetro
+
+
+UML - Unified Modeling Language
+- linguagem visual
+- representação da esrutura de softwares
+- diagramar características, fluxos, regras
+
+
+Diagrama de Classes
+----------------
+-  Personagem  -   --> Nome
+----------------
+- + nome       -   --> Atributos
+- + pontos     -
+----------------
+- + Caminhar() -   --> Métodos
+- + Atacar()   -
+- + Defender() -
+----------------
+
+
+Objetos:
+- Elementos existentes no domínio de um problema
+- Coisas do mundo real que podem ser identificadas
+e descritas
+
+
+Classe:
+- Conjunto de características que definem o objeto
+- Um molde para criar objetos de um mesmo tipo
+
+Objetos são instâncias de uma classe
+Instâncias = um modelo, um exemplar 
+
+Exemplo:
+Cachorro e Gato são instâncias(modelos/exemplares) da classe Animal
+
+
+Métodos Estáticos - static
+pertencem a classe porem nao precisam de uma instancia da classe para existir
+ou seja, sao acessados a partir da prorpira definição da classe
+
+Exemplo:
+public static decimal TaxaRendimento = 0.5m;
+
+- Essa TaxaRendimento diz respeito a todas as Contas, não a uma conta especifica
+- ela nao faz parte do objeto "conta", mas sim da classe "Conta"!!
+- pra eu chamar ela, nao devo me referenciar em conta.TaxaRendimento (objeto), mas sim em Conta.TaxaRendimento(classe)
+
+
+Construtores:
+- metodo q é executado quando uma isntancia da classe é construida
+- disparado automaticamento quando o operador "new" é utilizado para instanciar a classe
+- leva sempre o nome da classe
+- e nao tem tipo de retorno
+
+
+Encapsulamento:
+- ocultar detalhes internos de implementação de uma classe
+- limitar acesso a leitura e escrita de Atributos
+- expoe apenas os metodos
+- entradas e saidas controladas por meio dos parametros e retorno dos metodos
+- exemplo mais comum: getters (leitura) e setters (escrita)
+
+
+Herança:
+- uma classe herda atributos e caracteristicas de outra
+- classe original = classe pai ou superclasse
+- classe que herda = classe fila ou subclasse
+- reutilização de código, evita repetição e facilita manutenção
+
+
+------------        ------------        -------------
+- mamífero -  --->  -  animal  -  <---  - herbivoro -
+------------        ------------        -------------
+
+mamifero e herbivoro são subclasses de animal e herdam dela 
+caracteristicas como "espécie" (todo animal tem uma espécie)
+
+- 
