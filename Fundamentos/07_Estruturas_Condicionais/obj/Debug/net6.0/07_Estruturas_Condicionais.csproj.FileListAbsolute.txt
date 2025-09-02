@@ -1,0 +1,15 @@
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\07_Estruturas_Condicionais\bin\Debug\net6.0\07_Estruturas_Condicionais.exe
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\07_Estruturas_Condicionais\bin\Debug\net6.0\07_Estruturas_Condicionais.deps.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\07_Estruturas_Condicionais\bin\Debug\net6.0\07_Estruturas_Condicionais.runtimeconfig.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\07_Estruturas_Condicionais\bin\Debug\net6.0\07_Estruturas_Condicionais.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\07_Estruturas_Condicionais\bin\Debug\net6.0\07_Estruturas_Condicionais.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\07_Estruturas_Condicionais\obj\Debug\net6.0\07_Estruturas_Condicionais.csproj.AssemblyReference.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\07_Estruturas_Condicionais\obj\Debug\net6.0\07_Estruturas_Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\07_Estruturas_Condicionais\obj\Debug\net6.0\07_Estruturas_Condicionais.AssemblyInfoInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\07_Estruturas_Condicionais\obj\Debug\net6.0\07_Estruturas_Condicionais.AssemblyInfo.cs
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\07_Estruturas_Condicionais\obj\Debug\net6.0\07_Estruturas_Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\07_Estruturas_Condicionais\obj\Debug\net6.0\07_Estruturas_Condicionais.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\07_Estruturas_Condicionais\obj\Debug\net6.0\refint\07_Estruturas_Condicionais.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\07_Estruturas_Condicionais\obj\Debug\net6.0\07_Estruturas_Condicionais.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\07_Estruturas_Condicionais\obj\Debug\net6.0\07_Estruturas_Condicionais.genruntimeconfig.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\07_Estruturas_Condicionais\obj\Debug\net6.0\ref\07_Estruturas_Condicionais.dll

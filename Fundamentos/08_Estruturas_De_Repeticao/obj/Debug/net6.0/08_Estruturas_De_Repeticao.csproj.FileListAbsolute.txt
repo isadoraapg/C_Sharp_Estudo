@@ -1,0 +1,15 @@
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\08_Estruturas_De_Repeticao\obj\Debug\net6.0\08_Estruturas_De_Repeticao.csproj.AssemblyReference.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\08_Estruturas_De_Repeticao\obj\Debug\net6.0\08_Estruturas_De_Repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\08_Estruturas_De_Repeticao\obj\Debug\net6.0\08_Estruturas_De_Repeticao.AssemblyInfoInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\08_Estruturas_De_Repeticao\obj\Debug\net6.0\08_Estruturas_De_Repeticao.AssemblyInfo.cs
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\08_Estruturas_De_Repeticao\obj\Debug\net6.0\08_Estruturas_De_Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\08_Estruturas_De_Repeticao\bin\Debug\net6.0\08_Estruturas_De_Repeticao.exe
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\08_Estruturas_De_Repeticao\bin\Debug\net6.0\08_Estruturas_De_Repeticao.deps.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\08_Estruturas_De_Repeticao\bin\Debug\net6.0\08_Estruturas_De_Repeticao.runtimeconfig.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\08_Estruturas_De_Repeticao\bin\Debug\net6.0\08_Estruturas_De_Repeticao.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\08_Estruturas_De_Repeticao\bin\Debug\net6.0\08_Estruturas_De_Repeticao.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\08_Estruturas_De_Repeticao\obj\Debug\net6.0\08_Estruturas_De_Repeticao.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\08_Estruturas_De_Repeticao\obj\Debug\net6.0\refint\08_Estruturas_De_Repeticao.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\08_Estruturas_De_Repeticao\obj\Debug\net6.0\08_Estruturas_De_Repeticao.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\08_Estruturas_De_Repeticao\obj\Debug\net6.0\08_Estruturas_De_Repeticao.genruntimeconfig.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\08_Estruturas_De_Repeticao\obj\Debug\net6.0\ref\08_Estruturas_De_Repeticao.dll
