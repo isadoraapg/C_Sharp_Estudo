@@ -1,0 +1,15 @@
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Tipo_DateTime\obj\Debug\net6.0\Tipo_DateTime.csproj.AssemblyReference.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Tipo_DateTime\obj\Debug\net6.0\Tipo_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Tipo_DateTime\obj\Debug\net6.0\Tipo_DateTime.AssemblyInfoInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Tipo_DateTime\obj\Debug\net6.0\Tipo_DateTime.AssemblyInfo.cs
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Tipo_DateTime\obj\Debug\net6.0\Tipo_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Tipo_DateTime\bin\Debug\net6.0\Tipo_DateTime.exe
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Tipo_DateTime\bin\Debug\net6.0\Tipo_DateTime.deps.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Tipo_DateTime\bin\Debug\net6.0\Tipo_DateTime.runtimeconfig.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Tipo_DateTime\bin\Debug\net6.0\Tipo_DateTime.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Tipo_DateTime\bin\Debug\net6.0\Tipo_DateTime.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Tipo_DateTime\obj\Debug\net6.0\Tipo_DateTime.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Tipo_DateTime\obj\Debug\net6.0\refint\Tipo_DateTime.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Tipo_DateTime\obj\Debug\net6.0\Tipo_DateTime.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Tipo_DateTime\obj\Debug\net6.0\Tipo_DateTime.genruntimeconfig.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Tipo_DateTime\obj\Debug\net6.0\ref\Tipo_DateTime.dll

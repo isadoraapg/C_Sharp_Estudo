@@ -1,0 +1,15 @@
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\06_Operadores\bin\Debug\net6.0\06_Operadores.exe
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\06_Operadores\bin\Debug\net6.0\06_Operadores.deps.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\06_Operadores\bin\Debug\net6.0\06_Operadores.runtimeconfig.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\06_Operadores\bin\Debug\net6.0\06_Operadores.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\06_Operadores\bin\Debug\net6.0\06_Operadores.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\06_Operadores\obj\Debug\net6.0\06_Operadores.csproj.AssemblyReference.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\06_Operadores\obj\Debug\net6.0\06_Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\06_Operadores\obj\Debug\net6.0\06_Operadores.AssemblyInfoInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\06_Operadores\obj\Debug\net6.0\06_Operadores.AssemblyInfo.cs
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\06_Operadores\obj\Debug\net6.0\06_Operadores.csproj.CoreCompileInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\06_Operadores\obj\Debug\net6.0\06_Operadores.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\06_Operadores\obj\Debug\net6.0\refint\06_Operadores.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\06_Operadores\obj\Debug\net6.0\06_Operadores.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\06_Operadores\obj\Debug\net6.0\06_Operadores.genruntimeconfig.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\06_Operadores\obj\Debug\net6.0\ref\06_Operadores.dll
