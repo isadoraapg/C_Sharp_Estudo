@@ -1,0 +1,15 @@
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Declaracao_De_Variaveis\obj\Debug\net6.0\Declaracao_De_Variaveis.csproj.AssemblyReference.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Declaracao_De_Variaveis\obj\Debug\net6.0\Declaracao_De_Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Declaracao_De_Variaveis\obj\Debug\net6.0\Declaracao_De_Variaveis.AssemblyInfoInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Declaracao_De_Variaveis\obj\Debug\net6.0\Declaracao_De_Variaveis.AssemblyInfo.cs
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Declaracao_De_Variaveis\obj\Debug\net6.0\Declaracao_De_Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Declaracao_De_Variaveis\bin\Debug\net6.0\Declaracao_De_Variaveis.exe
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Declaracao_De_Variaveis\bin\Debug\net6.0\Declaracao_De_Variaveis.deps.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Declaracao_De_Variaveis\bin\Debug\net6.0\Declaracao_De_Variaveis.runtimeconfig.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Declaracao_De_Variaveis\bin\Debug\net6.0\Declaracao_De_Variaveis.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Declaracao_De_Variaveis\bin\Debug\net6.0\Declaracao_De_Variaveis.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Declaracao_De_Variaveis\obj\Debug\net6.0\Declaracao_De_Variaveis.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Declaracao_De_Variaveis\obj\Debug\net6.0\refint\Declaracao_De_Variaveis.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Declaracao_De_Variaveis\obj\Debug\net6.0\Declaracao_De_Variaveis.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Declaracao_De_Variaveis\obj\Debug\net6.0\Declaracao_De_Variaveis.genruntimeconfig.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Fundamentos C#\Declaracao_De_Variaveis\obj\Debug\net6.0\ref\Declaracao_De_Variaveis.dll
