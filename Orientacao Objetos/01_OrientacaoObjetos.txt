@@ -1,0 +1,152 @@
+
+
+Orientação a Objetos
+- representar o mundo real
+- definir caracteristicas, comportamentos e relações
+
+
+Pilares:
+- Abstração: 
+    - identificar quais elementos serão representados
+    - nomes, características, comportamentos e relações
+- Encapsulamento:
+    - esconder detalhes internos de uma classe
+    - expor apenas o que deve ser público
+- Herança:
+    - herdar comportamento e características 
+    - evita a repetição de código
+    - manutenção mais segura
+- Polimorfismo:
+    - capacidade de um objeto assumir diferentes formas
+    de acordo com a necessidade
+
+
+Console.WriteLine("Olá");
+Console = classe
+WriteLine = método
+"Olá" = parâmetro
+
+
+UML - Unified Modeling Language
+- linguagem visual
+- representação da esrutura de softwares
+- diagramar características, fluxos, regras
+
+
+Diagrama de Classes
+----------------
+-  Personagem  -   --> Nome
+----------------
+- + nome       -   --> Atributos
+- + pontos     -
+----------------
+- + Caminhar() -   --> Métodos
+- + Atacar()   -
+- + Defender() -
+----------------
+
+
+Objetos:
+- Elementos existentes no domínio de um problema
+- Coisas do mundo real que podem ser identificadas
+e descritas
+
+
+Classe:
+- Conjunto de características que definem o objeto
+- Um molde para criar objetos de um mesmo tipo
+
+Objetos são instâncias de uma classe
+Instâncias = um modelo, um exemplar 
+
+Exemplo:
+Cachorro e Gato são instâncias(modelos/exemplares) da classe Animal
+
+
+Métodos Estáticos - static
+pertencem a classe porem nao precisam de uma instancia da classe para existir
+ou seja, sao acessados a partir da prorpira definição da classe
+
+Exemplo:
+public static decimal TaxaRendimento = 0.5m;
+
+- Essa TaxaRendimento diz respeito a todas as Contas, não a uma conta especifica
+- ela nao faz parte do objeto "conta", mas sim da classe "Conta"!!
+- pra eu chamar ela, nao devo me referenciar em conta.TaxaRendimento (objeto), 
+mas sim em Conta.TaxaRendimento(classe)
+
+
+Construtores:
+- metodo q é executado quando uma isntancia da classe é construida
+- disparado automaticamento quando o operador "new" é utilizado para instanciar 
+a classe
+- leva sempre o nome da classe
+- e nao tem tipo de retorno
+
+
+Encapsulamento:
+- ocultar detalhes internos de implementação de uma classe
+- limitar acesso a leitura e escrita de Atributos
+- expoe apenas os metodos
+- entradas e saidas controladas por meio dos parametros e retorno dos metodos
+- exemplo mais comum: getters (leitura) e setters (escrita)
+
+
+Herança:
+- uma classe herda atributos e caracteristicas de outra
+- classe original = classe pai ou superclasse
+- classe que herda = classe fila ou subclasse
+- reutilização de código, evita repetição e facilita manutenção
+
+
+------------        ------------        -------------
+- mamífero -  --->  -  animal  -  <---  - herbivoro -
+------------        ------------        -------------
+
+mamifero e herbivoro são subclasses de animal e herdam dela 
+caracteristicas como "espécie" (todo animal tem uma espécie)
+
+Modificadores de acesso
+- public - visivel em tudo
+- private - visivel apenas na classe atual, nas outras nao
+- protected - visivel apenas na classe atual e nas classes filhas
+
+Classe Abstrata
+- classe q nao pode ser instanciada
+- pode servir como classe base para classes filhas, que podem herdar dela
+
+Polimorfismo
+- capacidade de um objeto assumir diferentes formas
+
+Interfaces
+- definem um conjunto de regras/obrigações que devem ser seguidas pelas 
+classes que a implementam
+- define apenas as assinaturas de métodos (nome, tipo de retorno e 
+parâmetros), sem atribuir a eles um corpo
+- a obrigação de implementar o corpo dos métodos cabe às classes que as 
+implementam 
+- não possuem atributos
+- iniciar o nome da interface com um “I” maiúsculo
+- os métodos não têm modificadores de acesso, pois são assumidos como 
+públicos por padrão
+- utilizadas amplamente na implementação de padrões de projeto
+
+Interace X Abstrata
+- interfaces definem apenas a assinatura dos métodos
+- classes abstratas podem trazer uma implementação padrão deles, que 
+pode ser herdada ou sobrescrita nas classes concretas
+- As classes abstratas podem possuir métodos protegidos e públicos, 
+enquanto as interfaces só aceitam métodos públicos
+- podemos utilizar classes abstratas quando estamos definindo os 
+métodos e propriedades centrais, e as interfaces para os métodos periféricos.
+- não é permitido a uma classe filha herdar de mais de uma classe pai. 
+Porém, é permitido que ela implemente mais de uma interface
+
+
+
+
+
+
+
+
+

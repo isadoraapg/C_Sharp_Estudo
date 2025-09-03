@@ -1,0 +1,15 @@
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\07_Polimorfismo_Interface\obj\Debug\net6.0\07_Polimorfismo_Interface.csproj.AssemblyReference.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\07_Polimorfismo_Interface\obj\Debug\net6.0\07_Polimorfismo_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\07_Polimorfismo_Interface\obj\Debug\net6.0\07_Polimorfismo_Interface.AssemblyInfoInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\07_Polimorfismo_Interface\obj\Debug\net6.0\07_Polimorfismo_Interface.AssemblyInfo.cs
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\07_Polimorfismo_Interface\obj\Debug\net6.0\07_Polimorfismo_Interface.csproj.CoreCompileInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\07_Polimorfismo_Interface\bin\Debug\net6.0\07_Polimorfismo_Interface.exe
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\07_Polimorfismo_Interface\bin\Debug\net6.0\07_Polimorfismo_Interface.deps.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\07_Polimorfismo_Interface\bin\Debug\net6.0\07_Polimorfismo_Interface.runtimeconfig.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\07_Polimorfismo_Interface\bin\Debug\net6.0\07_Polimorfismo_Interface.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\07_Polimorfismo_Interface\bin\Debug\net6.0\07_Polimorfismo_Interface.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\07_Polimorfismo_Interface\obj\Debug\net6.0\07_Polimorfismo_Interface.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\07_Polimorfismo_Interface\obj\Debug\net6.0\refint\07_Polimorfismo_Interface.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\07_Polimorfismo_Interface\obj\Debug\net6.0\07_Polimorfismo_Interface.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\07_Polimorfismo_Interface\obj\Debug\net6.0\07_Polimorfismo_Interface.genruntimeconfig.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\07_Polimorfismo_Interface\obj\Debug\net6.0\ref\07_Polimorfismo_Interface.dll
