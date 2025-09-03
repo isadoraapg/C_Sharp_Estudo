@@ -1,0 +1,15 @@
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\04_Heranca\obj\Debug\net6.0\04_Heranca.csproj.AssemblyReference.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\04_Heranca\obj\Debug\net6.0\04_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\04_Heranca\obj\Debug\net6.0\04_Heranca.AssemblyInfoInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\04_Heranca\obj\Debug\net6.0\04_Heranca.AssemblyInfo.cs
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\04_Heranca\obj\Debug\net6.0\04_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\04_Heranca\bin\Debug\net6.0\04_Heranca.exe
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\04_Heranca\bin\Debug\net6.0\04_Heranca.deps.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\04_Heranca\bin\Debug\net6.0\04_Heranca.runtimeconfig.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\04_Heranca\bin\Debug\net6.0\04_Heranca.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\04_Heranca\bin\Debug\net6.0\04_Heranca.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\04_Heranca\obj\Debug\net6.0\04_Heranca.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\04_Heranca\obj\Debug\net6.0\refint\04_Heranca.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\04_Heranca\obj\Debug\net6.0\04_Heranca.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\04_Heranca\obj\Debug\net6.0\04_Heranca.genruntimeconfig.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\04_Heranca\obj\Debug\net6.0\ref\04_Heranca.dll

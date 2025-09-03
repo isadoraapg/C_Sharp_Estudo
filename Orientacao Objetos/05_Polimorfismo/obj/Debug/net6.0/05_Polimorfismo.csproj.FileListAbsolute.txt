@@ -1,0 +1,15 @@
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\05_Polimorfismo\bin\Debug\net6.0\05_Polimorfismo.exe
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\05_Polimorfismo\bin\Debug\net6.0\05_Polimorfismo.deps.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\05_Polimorfismo\bin\Debug\net6.0\05_Polimorfismo.runtimeconfig.json
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\05_Polimorfismo\bin\Debug\net6.0\05_Polimorfismo.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\05_Polimorfismo\bin\Debug\net6.0\05_Polimorfismo.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\05_Polimorfismo\obj\Debug\net6.0\05_Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\05_Polimorfismo\obj\Debug\net6.0\05_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\05_Polimorfismo\obj\Debug\net6.0\05_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\05_Polimorfismo\obj\Debug\net6.0\05_Polimorfismo.AssemblyInfo.cs
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\05_Polimorfismo\obj\Debug\net6.0\05_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\05_Polimorfismo\obj\Debug\net6.0\05_Polimorfismo.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\05_Polimorfismo\obj\Debug\net6.0\refint\05_Polimorfismo.dll
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\05_Polimorfismo\obj\Debug\net6.0\05_Polimorfismo.pdb
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\05_Polimorfismo\obj\Debug\net6.0\05_Polimorfismo.genruntimeconfig.cache
+C:\Users\isadora.81932\Desktop\isadora\C#\Orientação a Objetos\05_Polimorfismo\obj\Debug\net6.0\ref\05_Polimorfismo.dll
